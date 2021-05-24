@@ -3,7 +3,7 @@
 Minimal set of files and directories expected in the working directory.
 
 ```
-clusters/
+NE_nCoV/
 │
 ├── pre-analyses/
    ├── gisaid_hcov-19.fasta 		→ FASTA file with the latest genomes from GISAID
