@@ -1,0 +1,10 @@
+purpose	level	name	size	start	end
+context	region_exposure	Europe	50		12/30/20
+context	region_exposure	Asia	50		12/30/20
+context	country_exposure	USA	250		12/30/20
+ignore	country_exposure	Canada			
+ignore	country_exposure	India			
+ignore	country_exposure	South Africa			
+ignore	country_exposure	Bangladesh			
+ignore	country_exposure	Saudi Arabia			
+ignore	country_exposure	Australia			

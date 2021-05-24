@@ -1,0 +1,224 @@
+region_exposure	Eastern Asia	#A3298F
+region_exposure	Southeastern Asia	#B04EB4
+region_exposure	Southern Asia	#BE73D9
+region_exposure	Western Asia	#CC99FF
+region_exposure	Northern Europe	#3D29A3
+region_exposure	Western Europe	#5B6AC1
+region_exposure	Eastern Europe	#7AACE0
+region_exposure	Southern Europe	#99EEFF
+region_exposure	Middle Africa	#3DA329
+region_exposure	Eastern Africa	#8DD161
+region_exposure	Southern Africa	#DDFF99
+region_exposure	South America	#A3A329
+region_exposure	Central America	#A36629
+region_exposure	North America	#A32929
+
+country_exposure	Brazil	#E0E073
+country_exposure	Hong Kong	#B53FA2
+country_exposure	Japan	#C755B5
+country_exposure	South Korea	#DA6CC8
+country_exposure	Ukraine	#EC82DB
+country_exposure	China	#FF99EE
+country_exposure	Indonesia	#A329A3
+country_exposure	Singapore	#B53FB5
+country_exposure	Vietnam	#C755C7
+country_exposure	Cambodia	#DA6CDA
+country_exposure	Thailand	#EC82EC
+country_exposure	Malaysia	#FF99FF
+country_exposure	Sri Lanka	#BC73E0
+country_exposure	Oman	#6629A3
+country_exposure	Qatar	#773BB2
+country_exposure	United Arab Emirates	#884EC1
+country_exposure	Bahrain	#9961D1
+country_exposure	Jordan	#AA73E0
+country_exposure	Palestine	#BB86EF
+country_exposure	Israel	#CC99FF
+country_exposure	United Kingdom	#3D29A3
+country_exposure	Ireland	#523FB5
+country_exposure	Lithuania	#6855C7
+country_exposure	Denmark	#7E6CDA
+country_exposure	Latvia	#9482EC
+country_exposure	Sweden	#AA99FF
+country_exposure	France	#293DA3
+country_exposure	Switzerland	#3F52B5
+country_exposure	Luxembourg	#5568C7
+country_exposure	Belgium	#6C7EDA
+country_exposure	Netherlands	#8294EC
+country_exposure	Germany	#99AAFF
+country_exposure	Bulgaria	#2966A3
+country_exposure	Russia	#457FBA
+country_exposure	Romania	#6199D1
+country_exposure	Slovakia	#7DB2E8
+country_exposure	Czech Republic	#99CCFF
+country_exposure	Portugal	#298FA3
+country_exposure	Spain	#3FA2B5
+country_exposure	North Macedonia	#55B5C7
+country_exposure	Italy	#6CC8DA
+country_exposure	Croatia	#82DBEC
+country_exposure	Slovenia	#99EEFF
+country_exposure	Angola	#3DA329
+country_exposure	Equatorial Guinea	#AAFF99
+country_exposure	Malawi	#52A329
+country_exposure	Zimbabwe	#BBFF99
+country_exposure	Botswana	#7AA329
+country_exposure	South Africa	#DDFF99
+country_exposure	Mexico	#E0BC73
+country_exposure	USA	#E07373
+
+division_exposure	Hawaii	#A32929
+division_exposure	Florida	#A52B2B
+division_exposure	Louisiana	#A72D2D
+division_exposure	Texas	#A93030
+division_exposure	Georgia	#AB3232
+division_exposure	Alabama	#AD3535
+division_exposure	South Carolina	#AF3737
+division_exposure	Arizona	#B13A3A
+division_exposure	New Mexico	#B33C3C
+division_exposure	Arkansas	#B53F3F
+division_exposure	North Carolina	#B74141
+division_exposure	Tennessee	#B94444
+division_exposure	California	#BB4646
+division_exposure	Virginia	#BD4949
+division_exposure	Kentucky	#BF4B4B
+division_exposure	Kansas	#C14E4E
+division_exposure	West Virginia	#C35050
+division_exposure	Colorado	#C55353
+division_exposure	Missouri	#C75555
+division_exposure	Washington DC	#C95858
+division_exposure	Washington	#CB5A5A
+division_exposure	Utah	#CD5D5D
+division_exposure	Nevada	#CF5F5F
+division_exposure	Maryland	#D26262
+division_exposure	Indiana	#D46464
+division_exposure	New Jersey	#D66767
+division_exposure	Illinois	#D86969
+division_exposure	Delaware	#DA6C6C
+division_exposure	Ohio	#DC6E6E
+division_exposure	New York	#DE7171
+division_exposure	Pennsylvania	#E07373
+division_exposure	Connecticut	#E27676
+division_exposure	Nebraska	#E47878
+division_exposure	Rhode Island	#E67B7B
+division_exposure	Iowa	#E87D7D
+division_exposure	Massachusetts	#EA8080
+division_exposure	Wyoming	#EC8282
+division_exposure	New Hampshire	#EE8585
+division_exposure	Michigan	#F08787
+division_exposure	Idaho	#F28A8A
+division_exposure	Oregon	#F48C8C
+division_exposure	Wisconsin	#F68F8F
+division_exposure	Maine	#F89191
+division_exposure	Minnesota	#FA9494
+division_exposure	North Dakota	#FC9696
+division_exposure	Alaska	#FF9999
+
+location	Hawaii County	#A32929
+location	New Orleans	#A32A2A
+location	East Baton Rouge Parish	#A42B2B
+location	Caddo Parish	#A52C2C
+location	Bexar County	#A62D2D
+location	Houston	#A72E2E
+location	Harris County	#A82F2F
+location	Greater Houston Area	#A93030
+location	Grimes County	#AA3131
+location	Belton	#AB3232
+location	Temple	#AC3434
+location	Mclennan County	#AD3535
+location	El Paso County	#AD3636
+location	Kaufman County	#AE3737
+location	Parmer County	#AF3838
+location	Marshall County AL	#B03939
+location	Calhoun County AL	#B13A3A
+location	Morgan County AL	#B23B3B
+location	Madison County AL	#B33C3C
+location	Maricopa County	#B43E3E
+location	Navajo County	#B53F3F
+location	Coconino County	#B64040
+location	San Diego	#B74141
+location	San Diego County	#B74242
+location	Imperial County	#B84343
+location	Orange County CA	#B94444
+location	Los Angeles County	#BA4545
+location	Ventura County	#BB4646
+location	Fresno County	#BC4848
+location	Madera County	#BD4949
+location	Santa Clara County	#BE4A4A
+location	Alameda County	#BF4B4B
+location	San Francisco County	#C04C4C
+location	Contra Costa County	#C14D4D
+location	San Joaquin County	#C14E4E
+location	Solano County	#C24F4F
+location	Sutter County	#C35050
+location	Humboldt County	#C45252
+location	Clark County WA	#C55353
+location	Walla Walla County	#C65454
+location	Yakima County	#C75555
+location	Pierce County WA	#C85656
+location	King County	#C95757
+location	Kitsap County	#CA5858
+location	Clark County NV	#CB5959
+location	Washoe County	#CB5A5A
+location	St. Joseph County	#CC5C5C
+location	Indianapolis	#CD5D5D
+location	Jackson County IL	#CE5E5E
+location	Sangamon County	#CF5F5F
+location	Macon County	#D06060
+location	Macon County IL	#D16161
+location	Mason County IL	#D26262
+location	McDonough County	#D36363
+location	Tazewell County IL	#D46464
+location	Peoria County	#D56565
+location	Whiteside County	#D66767
+location	Cook County IL	#D66868
+location	Chicago	#D76969
+location	Lake County IL	#D86A6A
+location	Sussex County DE	#D96B6B
+location	Kent County	#DA6C6C
+location	Kings County NY	#DB6D6D
+location	Brooklyn	#DC6E6E
+location	New York City	#DD6F6F
+location	Nassau County	#DE7171
+location	Queens County	#DF7272
+location	New York County	#E07373
+location	Manhattan	#E07474
+location	Bronx County	#E17575
+location	Suffolk County	#E27676
+location	Westchester County	#E37777
+location	Dutchess County	#E47878
+location	Ulster County	#E57979
+location	Wayne County NY	#E67B7B
+location	Erie County	#E77C7C
+location	Cayuga County	#E87D7D
+location	Herkimer County	#E97E7E
+location	Monroe County NY	#EA7F7F
+location	Warren County NY	#EA8080
+location	Fairfield County CT	#EB8181
+location	Lancaster County NE	#EC8282
+location	USA	#ED8383
+location	Johnson County IA	#EE8585
+location	Fayette County IA	#EF8686
+location	Chickasaw County	#F08787
+location	Marion County OR	#F18888
+location	Wasco County	#F28989
+location	Washington County OR	#F38A8A
+location	Milwaukee County	#F48B8B
+location	Dane County	#F48C8C
+location	Marquette County	#F58D8D
+location	Dodge County	#F68F8F
+location	Sauk County	#F79090
+location	La Crosse County	#F89191
+location	Winnebago County WI	#F99292
+location	Outagamie County	#FA9393
+location	Brown County WI	#FB9494
+location	Oneida County WI	#FC9595
+location	Marathon County	#FD9696
+location	Barron County	#FE9797
+location	Anchorage and Matanuska-Susitna	#FF9999
+
+category	International	#BFBFBF
+category	USA	#A6A6A6
+
+group	Creighton	#121DE6
+group	NPHL	#9306C2
+group	UNMC	#DE0707
+
